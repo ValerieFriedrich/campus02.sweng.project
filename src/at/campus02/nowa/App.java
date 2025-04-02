@@ -34,6 +34,8 @@ public class App {
 
     private void initialize() {
         //TODO: Initialisierungen hier durchführen
+
+
     }
 
     private void readUserInput() {
