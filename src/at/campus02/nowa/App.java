@@ -50,6 +50,21 @@ public class App {
             case 1:
                 figure = new FigureH();
                 break;
+            case 2:
+                figure = new FigureL();
+                break;
+            case 3:
+                figure = new FigureO();
+                break;
+            case 4:
+                figure = new FigureO2();
+                break;
+            case 5:
+                figure = new FigureI();
+                break;
+            case 6:
+                figure = new FigureMinus();
+                break;
             default: break;
         }
     }
