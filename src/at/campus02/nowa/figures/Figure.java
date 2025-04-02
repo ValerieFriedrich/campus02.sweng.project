@@ -14,7 +14,6 @@ public abstract class Figure {
             }
             sb.append('\n');
         }
-
         return sb.toString();
     }
 }
